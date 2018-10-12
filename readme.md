@@ -16,3 +16,7 @@
 - images：图片，供使用文档引用
 - renderSDK：源代码
 - scenes：测试场景
+
+### 注意事项
+- 支持中文：3ds Max
+- 不支持中文：Maya, Houdini
